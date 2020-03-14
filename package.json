@@ -1,0 +1,16 @@
+{
+    "name": "app",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "electron": "^8.1.0",
+        "jquery": "^3.4.1"
+    }
+}

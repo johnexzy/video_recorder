@@ -1,0 +1,40 @@
+#startBtn {
+    display: block;
+    width: 140px;
+    height: 40px;
+    margin: 10px auto;
+    box-shadow: 1px -1px 3px 1px;
+    background-color: rgb(59, 89, 152);
+    border: 0;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 700;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#stopBtn {
+    cursor: pointer;
+    display: block;
+    width: 140px;
+    height: 40px;
+    margin: 10px auto;
+    box-shadow: 1px -1px 3px 1px;
+    background-color: red;
+    border: 0;
+    color: black;
+    text-transform: uppercase;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+body {
+    background-color: black;
+}
+
+.header {
+    background-color: grey;
+    font-size: 23;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
